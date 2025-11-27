@@ -1,4 +1,4 @@
-# Free Skool Video Downloader (Browser Extension) ⭐⭐⭐
+# Free Skool Video Downloader (Browser Extension) ⭐
  A browser extension that adds a convenient download button to Skool (`skool.com`) classroom pages, allowing you to save videos for offline viewing
 
 - Download accessible course videos for learning anytime, anywhere
