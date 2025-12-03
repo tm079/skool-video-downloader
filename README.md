@@ -8,7 +8,7 @@
 
 # 🛠️ Installation
 
-1. Download The Rar File For The Skool Downloader Extension From /release
+1. Download The Zip File For The Skool Downloader Extension From /release
 <img width="457" height="352" alt="ok1" src="https://github.com/user-attachments/assets/329e5518-45f3-4a20-bc58-8204df94b4cd" />
 
 2. Extract The .zip File
