@@ -12,7 +12,8 @@
 <img width="457" height="352" alt="ok1" src="https://github.com/user-attachments/assets/329e5518-45f3-4a20-bc58-8204df94b4cd" />
 
 2. Extract The .zip File
-<img width="353" height="171" alt="image" src="https://github.com/user-attachments/assets/7bcfebeb-545f-4049-9e0b-823018053a15" />
+<img width="343" height="170" alt="image" src="https://github.com/user-attachments/assets/70f85006-37c4-42e9-9152-c9e0acf90ce2" />
+
 
 4. Go To `chrome://extensions/`
   
