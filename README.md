@@ -8,18 +8,22 @@
 
 # 🛠️ Installation
 
-1. Download The Zip File For The Skool Downloader Extension From /release
+1. Give Me A Star By Click This Button On The Top Right
+   
+<img width="198" height="75" alt="image" src="https://github.com/user-attachments/assets/b7faebe7-da2e-48c9-a31f-03ecf2fb9a6d" />
+
+3. Download The Zip File For The Skool Downloader Extension From /release
 <img width="457" height="352" alt="ok1" src="https://github.com/user-attachments/assets/329e5518-45f3-4a20-bc58-8204df94b4cd" />
 
-2. Extract The .zip File
+4. Extract The .zip File
 <img width="343" height="170" alt="image" src="https://github.com/user-attachments/assets/70f85006-37c4-42e9-9152-c9e0acf90ce2" />
 
 
-4. Go To `chrome://extensions/`
+5. Go To `chrome://extensions/`
   
-5. Enable "Developer Mode" By Clicking The Toggle On The Top Right
+6. Enable "Developer Mode" By Clicking The Toggle On The Top Right
    
-6. Install the 'Skool Downloader Extension' By Clicking "Load Unpacked" And Choosing The 'Skool Downloader Extension' Folder On Your Computer (the <b> FOLDER </b>, not the .zip)
+7. Install the 'Skool Downloader Extension' By Clicking "Load Unpacked" And Choosing The 'Skool Downloader Extension' Folder On Your Computer (the <b> FOLDER </b>, not the .zip)
 <img width="228" height="237" alt="Screenshot 2025-11-27 192458" src="https://github.com/user-attachments/assets/d507ea4a-cd15-4a29-b4f3-896b4591226c" />
 
 # 🖥️ How To Use
