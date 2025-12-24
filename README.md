@@ -5,7 +5,7 @@
 - Backup important educational materials for personal use
 - Avoid losing access to learning content due to connection issues or account limitations
 - All downloads are intended for personal, educational purposes only
-
+<a href="https://www.buymeacoffee.com/ngo079" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 # 🛠️ Installation
 
 1. Give Me A Star By Click This Button On The Top Right
